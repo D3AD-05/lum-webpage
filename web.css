@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+.container{
+    height: 1600rem;
+    width: 100%;
+  
+    background:#42455a ;
+}
+
+.nav ul{
+    display: inline-flex;
+    margin: 20px;
+    
+}
+
+.nav ul li{
+    list-style: none;
+    margin: 0px 20px ;
+    color: #adb;
+}
+
+.sigin-btn{
+    top:20px;
+    right: 80px;
+    position: absolute;
+    text-decoration: none;
+    color: #2adb;
+
+    
+
+}
+
+.header{
+    width: 80%;
+    height: 70%;
+    top: 25%;
+    left: 120px;
+    position: absolute;
+    color: aliceblue;
+
+}
+
+.content{
+     width: 50%;
+     float: left;
+}
+
+.content h1{
+    font-size: 45px;
+    width: 640px;
+    margin-left: 40px;
+    position: relative;
+}
+
+.content p{
+    width: 650px;
+    font-size:15px;
+    margin: 30px 0 30px 40px;
+    line-height: 20px;
+    color: #919191;
+}
+.image-section{
+    /*background-color: aqua;*/
+    width: 40%;
+    float: left;
+}
+.image-section img{
+    width: 80%;
+    float: right;
+}
+.social{
+margin-left: 40px;
+ 
+}
+a{
+    text-decoration: none;
+}
+
+
+small{
+    
+    margin: auto 10px;
+    font: 12px;
+    color: #19dafa;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
