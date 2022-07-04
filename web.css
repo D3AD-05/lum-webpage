@@ -4,7 +4,7 @@
    
 }
 .container{
-    height: 1600rem;
+    height: 4098px;
     width: 100%;
   
     background:#42455a ;
@@ -68,7 +68,7 @@
     float: left;
 }
 .image-section img{
-    width: 80%;
+    width: 70%;
     float: right;
 }
 .social{
